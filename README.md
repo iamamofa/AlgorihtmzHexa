@@ -1,7 +1,7 @@
 # AlgorihtmzHexa
 <p> A simple python program that accepts data inputs of any value and convert to hexadecimal 🚀</p> 
 
-# run this simple lines of code in a python shell convert to hexadecimal
+# Run this simple lines of code in a python shell convert to hexadecimal
 
 
 
